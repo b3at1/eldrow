@@ -2,6 +2,7 @@
 A poorly made "sort of" wordle.
 
 **Game Rules**
+
 You don't win unless I say you do.
 "Trust me, it's not malware"
 You don't have to guess words, which defeats the purpose of the game.
